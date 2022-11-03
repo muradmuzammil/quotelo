@@ -1,0 +1,67 @@
+
+.main-wrapper{
+    padding: 25px;
+    background-color: aliceblue;
+    height: 100vh;
+
+}
+.title-text{
+    color: blue;
+    font-weight: 700;
+}
+.icon-txt{
+    font-weight: 600;
+}
+.cards-buttons{
+    width: 100%;
+    padding: 15px;
+    border: 0.8px solid grey;
+    font-weight: 600;
+}
+#active-btn{
+    width: 100%;
+    padding: 15px;
+    border: 0.8px solid grey;
+    font-weight: 600;
+    background-color:aliceblue;
+    color: blue;
+}
+.cards-wrapper{
+    padding: 25px;
+    background-color:#ffff;
+    border-left: 8px solid blue;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.main-heading-card{
+    font-size: 22px;
+    color: black;
+    font-weight: 600;
+}
+.card-1{
+    border-radius: 5px;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+}
+.card-bdy-1{
+    padding: 10px;
+    background-color: #ffff;
+
+}
+.price-tag{
+    border: none;
+    border-radius: 30%;
+    background-color: yellow;
+    font-size: 13px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card-heading{
+    color: blue;
+    font-weight: 600;
+}
+::-webkit-scrollbar {
+    display: none;
+  }
